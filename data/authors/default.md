@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+name: GN Lee
+avatar: /static/images/avatar.jpg
+occupation: Frontend Developer
+company: '-'
+email: rkdmsdl93@gmail.com
+twitter: https://twitter.com/gnlee808
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/salybu
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+GN Lee is a junior Front-end developer who is searching a job. She always want to be a better person as a professional developer and also as a co-worker.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+So, as a one step of "Being a better version of me" journey, She started writing technical posts in this blog.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Her programming skills or developer's mindset will improve by writing every post. and also She hopes all these posts help other developers like her who are looking for a guide.
